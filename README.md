@@ -77,7 +77,7 @@ Whether you're working with research papers, reports, or any other PDF documents
 Open a terminal and run the following command to clone the repository:
 
 ```
-git clone https://github.com/AmaanSyed110/MultiPDF-RAG.git
+git clone https://github.com/AmaanSyed110/Multimodal-RAG.git
 ```
 - ### Set Up a Virtual Environment
 It is recommended to use a virtual environment for managing dependencies:
