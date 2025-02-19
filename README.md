@@ -18,7 +18,7 @@ Whether you're working with research papers, reports, or any other PDF documents
 - **User-Friendly Interface**:
 
 ## Flow of the Project
-<img width="553" alt="Screenshot 2025-02-19 at 7 17 00 PM" src="https://github.com/user-attachments/assets/6c66578c-bc9c-4199-b764-43e5179e48ea" />
+<img width="451" alt="Screenshot 2025-02-19 at 7 30 45 PM" src="https://github.com/user-attachments/assets/45f13e3e-9811-4f02-a1c3-e0a8d99ac47a" />
 
 
 ## Tech Stack
