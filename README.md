@@ -8,14 +8,24 @@ Whether you're working with research papers, reports, or any other PDF documents
 
 ## Features
 - **Multi-Modal Processing**:
+  - Extracts text, tables, and images from PDFs.
+  - Uses **Tesseract OCR** to extract text from images.
+  - Combines all extracted content for a comprehensive RAG pipeline.
 
 - **Conversational Interface**:
+  - Allows users to ask questions about the content of the PDFs.
+  - Retrieves relevant information using FAISS and generates responses using GPT-4.   
 
 - **Efficient Storage and Retrieval**:
+  - Uses **FAISS** for vector storage and similarity search.
+  - Splits text into chunks for optimal processing.   
 
 - **Robust Error Handling**:
+  - Handles unsupported or corrupted images gracefully.
+  - Provides detailed logging for debugging. 
 
 - **User-Friendly Interface**:
+  - Built with **Streamlit**, providing an intuitive and interactive web interface.
 
 ## Flow of the Project
 <img width="451" alt="Screenshot 2025-02-19 at 7 30 45 PM" src="https://github.com/user-attachments/assets/45f13e3e-9811-4f02-a1c3-e0a8d99ac47a" />
