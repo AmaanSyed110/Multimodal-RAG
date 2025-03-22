@@ -5,6 +5,9 @@ This project is a **Multi-Modal Retrieval-Augmented Generation (RAG)** system de
 
 Whether you're working with research papers, reports, or any other PDF documents, this app allows you to ask questions and get answers based on the content of your files.
 
+## How it works
+![diagram-export-3-22-2025-6_32_27-PM](https://github.com/user-attachments/assets/d9d85121-b7f7-4c02-a247-d5cb0affc997)
+
 
 ## Features
 - **Multi-Modal Processing**:
